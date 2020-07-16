@@ -58,3 +58,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 npm i styled-components @types/styled-components
 
 npm start
+
+api test: https://opentdb.com/api.php?amount=10
